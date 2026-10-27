@@ -1,6 +1,6 @@
 # Linux troubleshooting notes
 lakshmi practice.
-## Disk full...
+## Disk full....
 - df -h              check which filesystem is full
 - df -ih             check if inodes are full
 - du -h --max-depth=1 /path    find which folder is big
