@@ -37,6 +37,7 @@ Click Add SSH key, then run:
 ssh -T git@github.com
 
 
+#o
 now create first repo
 step 1: github.com top right
      2. new repository
