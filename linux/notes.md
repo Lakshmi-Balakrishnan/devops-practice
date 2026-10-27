@@ -1,5 +1,5 @@
 # Linux troubleshooting notes
-lakshmi practice
+lakshmi practice.
 ## Disk full
 - df -h              check which filesystem is full
 - df -ih             check if inodes are full
