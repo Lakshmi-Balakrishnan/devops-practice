@@ -1,4 +1,4 @@
-# Linux troubleshooting notes
+# Linux troubleshooting notes.
 lakshmi practice.
 ## Disk full...
 - df -h              check which filesystem is full
