@@ -12,7 +12,7 @@ lakshmi practice
 - kill PID           stop it gracefully
 - kill -9 PID        force stop
 
-27/10/2026
+#27/10/2026
 PROJECT START WITH GIT& GITHUB 
 step1: check git is installed
  git --version
