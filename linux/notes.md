@@ -13,7 +13,9 @@ lakshmi practice.
 - kill -9 PID        force stop
 
 #27/10/2026
+
 1.PROJECT START WITH GIT& GITHUB 
+
 step1: check git is installed
  git --version
 step2: set you identity
